@@ -23,17 +23,23 @@ include "inc/menu.php";
     
     <main>
   
-    <h2 class="bienvenue">Bienvenue sur notre site consacré à Sofia.</h2>
-
-    <img src="img/armoiries.jpg" alt="Armoiris de Sofia" class="armoiris">
-        <p>
-        Sofia est la capitale et la plus grande ville de la Bulgarie, à 590 mètres d'altitude au pied du mont Vitocha, non loin de l'Iskar.
-
-        Ses habitants, les Sofiotes (Sofiiantsi (софиянци) en bulgare), soit 17 % de la population du pays, plaçant Sofia au 13e rang des villes les plus peuplées de l'Union européenne. Sofia est également la quatrième plus grande ville des Balkans, après Istanbul, Athènes et Belgrade. Elle est à la fois le centre politique et culturel du pays, son principal centre d'échanges ainsi que son premier centre industriel, avec des activités sidérurgiques, métallurgique, de construction mécanique et de chimie3. C'est également un centre universitaire depuis 1888.
-
-        La ville occupe une position géostratégique très importante dans la région, ce qui a largement contribué à son expansion démographique.
-
-        </p>
+    <h2 class="bienvenue">GALERIE</h2>
+    
+    <div class="gal">
+    <img src="img\480px_Alexander_Nevsky_Cathedral_in_Sofia.jpg" alt="img1" class="img1">
+    <img src="img\480px_Gallery_for_Foreign_Art_TodorBozhinov.jpg" alt="img2" class="img2">
+    <img src="img\480px_IvanVazov_National_Theatre.jpg" alt="img3" class="img3">
+    <img src="img\480px_StGeorgeRotundaSofia.jpg" alt="img4" class="img4">
+    <img src="img\480px_Sveta_Sofia_Church_in_Sofia.jpg" alt="img5" class="img5">
+    <img src="img\480px_Tzar_Liberator_Monument_Sofia.jpg" alt="img6" class="img6">
+    <img src="img\1280px_Alexander_Nevsky_Cathedral_in_Sofia.jpg" alt="img7" class="img7">
+    <img src="img\1280px_Gallery_for_Foreign_Art_TodorBozhinov.jpg" alt="img8" class="img8">
+    <img src="img\1280px_IvanVazov_National_Theatre.jpg" alt="img9" class="img9">
+    <img src="img\1280px_StGeorgeRotundaSofia.jpg" alt="img10" class="img10">
+    <img src="img\1280px_Sveta_Sofia_Church_in_Sofia.jpg" alt="img11" class="img11">
+    <img src="img\1280px_Tzar_Liberator_Monument_Sofia.jpg" alt="img12" class="img12">
+    </div>
+       
     </main>
     
 
