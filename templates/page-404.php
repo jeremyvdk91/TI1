@@ -22,8 +22,8 @@ include "inc/menu.php";
     ?></nav>
     
     <main>
-    <div class="bienvenue">
-        <h2>Bienvenue sur notre site consacré à Sofia.</h2>
+   
+    <h2 class="bienvenue">Bienvenue sur notre site consacré à Sofia.</h2>
 </div>
     <img src="img/armoiries.jpg" alt="Armoiris de Sofia" class="armoiris">
         <p>

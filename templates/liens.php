@@ -22,10 +22,10 @@ include "inc/menu.php";
     ?></nav>
     
     <main>
-    <div class="bienvenue">
-        <h2>Bienvenue sur notre site consacré à Sofia.</h2>
-</div>
-    <img src="img/armoiries.jpg" alt="Armoiris de Sofia" class="armoiris">
+    
+    <h2 class="bienvenue">Quelques liens vers nos partenaires. </h2>
+
+    <img src="img/liens.jpg" alt="link" class="link">
         <p>
         Sofia est la capitale et la plus grande ville de la Bulgarie, à 590 mètres d'altitude au pied du mont Vitocha, non loin de l'Iskar.
 

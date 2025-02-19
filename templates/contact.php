@@ -22,18 +22,30 @@ include "inc/menu.php";
     ?></nav>
     
     <main>
-    <div class="bienvenue">
-        <h2>Bienvenue sur notre site consacré à Sofia.</h2>
-</div>
-    <img src="img/armoiries.jpg" alt="Armoiris de Sofia" class="armoiris">
-        <p>
-        Sofia est la capitale et la plus grande ville de la Bulgarie, à 590 mètres d'altitude au pied du mont Vitocha, non loin de l'Iskar.
+    
+    <h2 class="bienvenue">POUR NOUS CONTACTER</h2>
 
-        Ses habitants, les Sofiotes (Sofiiantsi (софиянци) en bulgare), soit 17 % de la population du pays, plaçant Sofia au 13e rang des villes les plus peuplées de l'Union européenne. Sofia est également la quatrième plus grande ville des Balkans, après Istanbul, Athènes et Belgrade. Elle est à la fois le centre politique et culturel du pays, son principal centre d'échanges ainsi que son premier centre industriel, avec des activités sidérurgiques, métallurgique, de construction mécanique et de chimie3. C'est également un centre universitaire depuis 1888.
+    <img src="img/contacts.jpg" alt="Contact" class="contact">
+        <p class="cont"><strong>Pour nous laisser un commentaire ou pour obtenir un renseignement complémentaire,remplissez le formulaire ci-dessous</strong></p>
+  
+        <form action="..." method="post">
+            <label for="nom">Nom :</label>
+            <input type="text" id="nom" name="nom" required>
 
-        La ville occupe une position géostratégique très importante dans la région, ce qui a largement contribué à son expansion démographique.
+            <label for="prenom">Prénom :</label>
+            <input type="text" id="prenom" name="prenom" required>
 
-        </p>
+            <label for="ville">Ville :</label>
+            <input type="text" id="ville" name="ville" required>
+
+            <label for="email">E-mail :</label>
+            <input type="email" id="email" name="email" required>
+
+            <label for="commentaires">Commentaires :</label>
+            <textarea id="commentaires" name="commentaires" rows="5" required></textarea>
+
+            <button type="submit">Envoyer votre message</button>
+        </form>
     </main>
     
 

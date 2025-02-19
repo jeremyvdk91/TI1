@@ -22,10 +22,11 @@ include "inc/menu.php";
     ?></nav>
     
     <main>
-    <div class="bienvenue">
-        <h2>GEOGRAPHIE.</h2>
-</div>
+   
+    <h2 class="bienvenue">GEOGRAPHIE</h2>
+
     <img src="img/geographie.png" alt="geographie" class="geo">
+    <div class="geo">
         <p>
         La tribu thrace des Serdes, donna son nom au premier établissement urbain établi sur le site : Serdica au viie siècle av. J.-C.. Puis les Bulgares l'appelèrent Stredets (la ville située au milieu). Les Byzantins la nommèrent Triaditsa.
 En 1376, elle prit son nom actuel Sofia, d'après la basilique Sainte-Sophie.</p>
@@ -44,6 +45,7 @@ Juillet et août sont les mois les plus chauds avec une température moyenne de 
 
 Les précipitations les plus importantes sont en mai et juin avec respectivement 67 et 75 mm. Le mois le plus froid est celui de janvier avec une température moyenne de −0,5 °C
         </p>
+        </div>
     </main>
     
 
