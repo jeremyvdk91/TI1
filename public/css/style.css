@@ -171,11 +171,19 @@ button{
 
 }
 
-.link{
-    list-style: none;
-    display: ;
+.liens{
     
+    list-style: none;
+    display: flex;
+    justify-content: center;
+
+
 }
+ a{
+    text-decoration: none;
+    color: #A90331;
+}
+
  .error{
     text-align: center;
  }

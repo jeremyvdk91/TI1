@@ -26,14 +26,71 @@ include "inc/menu.php";
     <h2 class="bienvenue">Quelques liens vers nos partenaires. </h2>
 
     <img src="img/liens.jpg" alt="link" class="link">
-        <p>
-        Sofia est la capitale et la plus grande ville de la Bulgarie, à 590 mètres d'altitude au pied du mont Vitocha, non loin de l'Iskar.
-
-        Ses habitants, les Sofiotes (Sofiiantsi (софиянци) en bulgare), soit 17 % de la population du pays, plaçant Sofia au 13e rang des villes les plus peuplées de l'Union européenne. Sofia est également la quatrième plus grande ville des Balkans, après Istanbul, Athènes et Belgrade. Elle est à la fois le centre politique et culturel du pays, son principal centre d'échanges ainsi que son premier centre industriel, avec des activités sidérurgiques, métallurgique, de construction mécanique et de chimie3. C'est également un centre universitaire depuis 1888.
-
-        La ville occupe une position géostratégique très importante dans la région, ce qui a largement contribué à son expansion démographique.
-
-        </p>
+        <p><strong>D'autres capitales se sont associées à notre site.</strong></p>
+        <div class="liens">
+            <div>
+        <li>
+            <a href="@">Berlin</a>
+          </li>
+          <li>
+            <a href="@">Vienne</a>
+          </li>
+          <li>
+            <a href="@">Paris</a>
+          </li>
+          <li>
+            <a href="@">Madrid</a>
+          </li>
+          <li>
+            <a href="@">Rome</a>
+          </li>
+          <li>
+            <a href="@">Londres</a>
+          </li>
+          </div>
+          <div>
+          <li>
+            <a href="@">Lisbonne</a>
+          </li>
+          <li>
+            <a href="@">Prague</a>
+          </li>
+          <li>
+            <a href="@">Amsterdam</a>
+          </li>
+          <li>
+            <a href="@">Copenhague</a>
+          </li>
+          <li>
+            <a href="@">Dublin</a>
+          </li>
+          <li>
+            <a href="@">Athènes</a>
+          </li>
+          </div>
+          <div>
+          <li>
+            <a href="@">Bruxelles</a>
+          </li>
+          <li>
+            <a href="@">Varsovie</a>
+          </li>
+          <li>
+            <a href="@">Helsinki</a>
+          </li>
+          <li>
+            <a href="@">Stockholm</a>
+          </li>
+          <li>
+            <a href="@">Oslo</a>
+          </li>
+          <li>
+            <a href="@">Budapest</a>
+          </li>
+          </div>
+          </div>
+        
+        
     </main>
     
 
