@@ -3,7 +3,7 @@
 ?>
         <ul>
           <li>
-            <a href="">Accueil</a>
+            <a href="./?p=accueil">Accueil</a>
           </li>
           <li>
             <a href="./?p=geo">Geographie</a>
